@@ -1,7 +1,6 @@
 package com.example.all_purpose;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 /**
@@ -13,7 +12,7 @@ import android.os.Bundle;
  *          5.商品数量加减；
  */
 public class MainActivity extends AppCompatActivity {
-    //@BindView
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
